@@ -1,5 +1,4 @@
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/de1353b7-040e-4b68-9091-48d7940c2689" />
-
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/8428d412-5f3c-42eb-83a4-d51624a975ed" />
 
 # FLOP Testnet Validator Başvuru Kılavuzu
 
