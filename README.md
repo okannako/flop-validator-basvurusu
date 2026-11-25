@@ -1,8 +1,8 @@
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/8428d412-5f3c-42eb-83a4-d51624a975ed" />
 
-# FLOP Testnet Validator Başvuru Kılavuzu
+# FLOP LABS Testnet Validator Başvuru Kılavuzu
 
-FLOP Network'ün Devnet ağına **keyless RPC replica** node kurma rehberi. Yani: cuzdansız, imzasız, oy vermeyen, sadece block'ları doğrulayan ve relay eden bir node. Validator başvurusu için **sync & restart evidence** kanıtı üretmeye yarar.
+FLOP LABS'In Devnet ağına **keyless RPC replica** node kurma rehberi. Yani: cuzdansız, imzasız, oy vermeyen, sadece block'ları doğrulayan ve relay eden bir node. Validator başvurusu için **sync & restart evidence** kanıtı üretmeye yarar.
 
 **Ne İçin lazım:**
 
